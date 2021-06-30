@@ -109,7 +109,7 @@
       <Filter>Source Files\99.Mgr\04.StairMgr</Filter>
     </ClInclude>
     <ClInclude Include="DebugMgr.h">
-      <Filter>Header Files</Filter>
+      <Filter>Source Files\99.Mgr\99.DebugMgr</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -142,7 +142,7 @@
     </ClCompile>
     <ClCompile Include="Infinite_Stairs.cpp" />
     <ClCompile Include="DebugMgr.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\99.Mgr\99.DebugMgr</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
